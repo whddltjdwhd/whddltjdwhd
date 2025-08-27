@@ -56,7 +56,7 @@
       <div markdown="1">
 
       - 정기구독 신청 주문서 클론 코딩 과제 수행
-      - **관련 링크**: [과제 상세 내용 (Notion)](https://gilded-class-68b.notion.site/order) | [최종 발표 자료 (Figma Slide)](https://www.figma.com/slides/iYo6abrAY7hC2erHCdc2HY/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%B5%9C%EC%A2%85-%EB%B0%9C%ED%91%9C?node-id=1-1106&t=EidL0Kqd7Nqd0gt1-1)
+      - **관련 링크**: [과제 상세 내용 (Notion)](https://gilded-class-68b.notion.site/order) | [최종 발표 자료 (Figma Slide)](https://www.figma.com/slides/iYo6abrAY7hC2erHCdc2HY/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%B5%9C%EC%A2%85-%EB%B0%9C%ED%91%9C?node-id=1-1087&t=DR6J54MGKUG9VPAJ-1)
 
       </div>
     </details>
