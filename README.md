@@ -26,7 +26,7 @@
       - **사업 기여**: 축제 주점 **대기 시간 30% 단축** 및 **매출 20% 증대**
       - **주요 기능**: 어드민/사용자 페이지 (23개 이상) 전체 기능 구현
       - **코드 모듈화**: 페이지네이션, 모달 등 공통 로직을 커스텀 훅으로 분리하여 재사용성 증대
-      - **성능 개선**: CRA에서 [Vite로 마이그레이션](https://www.castle-bell.site/vite-migration) 진행, 빌드 속도 및 개발 환경 개선
+      - **성능 개선**: [CRA에서 Vite로 마이그레이션 진행으로 빌드 속도 및 개발 환경 개선](https://www.castle-bell.site/vite-migration) / [전체 QR 코드 다운로드 파이프라인 개선으로 시간 단축](https://github.com/KioSchool/KioSchool/pull/278)
       - **UX/UI**: recharts 활용 [데이터 시각화](https://github.com/KioSchool/KioSchool/pull/271), react-scroll 커스텀 [scroll-spy 기능 구현](https://ji-in.notion.site/1a9c5ba1fd7780abaa2bf2269c6d9ac3)
       - **관련 링크**: [서비스 바로가기](https://kio-school.com/) | [GitHub](https://github.com/KioSchool/KioSchool) | [인스타그램](https://www.instagram.com/kioschool/#)
 
@@ -63,17 +63,3 @@
 #### Contributions
 
 -   (Issue) **NaverPayDev/pie**: [[vanilla-store] useSetStore 훅이 불필요한 리렌더링을 유발](https://github.com/NaverPayDev/pie/issues/178)
-<!--
-**whddltjdwhd/whddltjdwhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
