@@ -20,13 +20,14 @@
   <summary><strong>KioSchool FrontEnd Lead</strong> (2024.02 ~ )</summary>
   <div markdown="1">
 
-  - **서비스 성과**: QR 기반 테이블 오더링 서비스 개발, **누적 사용자 7,000명** 확보
-  - **사업 기여**: 축제 주점 **대기 시간 30% 단축** 및 **매출 20% 증대**
-  - **주요 기능**: 어드민/사용자 페이지 (23개 이상) 전체 기능 구현
-  - **코드 모듈화**: 페이지네이션, 모달 등 공통 로직을 커스텀 훅으로 분리하여 재사용성 증대
-  - **성능 개선**: [CRA에서 Vite로 마이그레이션 진행으로 빌드 속도 및 개발 환경 개선](https://www.castle-bell.site/vite-migration) / [전체 QR 코드 다운로드 파이프라인 개선으로 시간 단축](https://github.com/KioSchool/KioSchool/pull/278)
+  - **서비스 성과**: QR 기반 테이블 오더링 서비스 개발, **누적 사용자 7,000명 이상** 확보 및 축제 주점 **대기 시간 30% 단축** / **매출 20% 증대**
+  - **서비스 기여**: 어드민/사용자 페이지 (23개 이상) 전체 기능 구현
+  - **성능 개선**:
+    - [웹 소켓을 이용한 실시간 주문 조회 기능 개선](https://ji-in.notion.site/264c5ba1fd77805abc70ecb9e88e3e33)
+    - [전체 QR 코드 다운로드 파이프라인 개선으로 시간 단축](https://github.com/KioSchool/KioSchool/pull/278)
+    - [CRA에서 Vite로 마이그레이션 진행으로 빌드 속도 및 개발 환경 개선](https://www.castle-bell.site/vite-migration)
   - **UX/UI**: recharts 활용 [데이터 시각화](https://github.com/KioSchool/KioSchool/pull/271), react-scroll 커스텀 [scroll-spy 기능 구현](https://ji-in.notion.site/1a9c5ba1fd7780abaa2bf2269c6d9ac3)
-  - **관련 링크**: [서비스 바로가기](https://kio-school.com/) | [GitHub](https://github.com/KioSchool/KioSchool) | [인스타그램](https://www.instagram.com/kioschool/#)
+  - **관련 링크**: [서비스 바로가기](https://kio-school.com/) | [GitHub](https://github.com/KioSchool/KioSchool) | [Notion](https://ji-in.notion.site/34885d92962d403dbc8c149106657473) | [인스타그램](https://www.instagram.com/kioschool/#)
 
   </div>
 </details>
