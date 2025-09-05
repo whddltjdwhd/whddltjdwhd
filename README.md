@@ -41,7 +41,7 @@
   - **코드 베이스 개선**: [절대 경로 적용](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU/pull/201), [폴더 구조 리팩토링](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU/pull/198)으로 유지보수성 향상
   - **최적화**: [OG Tag 적용 (SEO)](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU/pull/179), 백엔드 협업을 통한 [번들 사이즈 축소](https://www.notion.so/Front-yarn-start-6149f249a03541a7a5e262208a2d9e8c)
   - **데이터 분석**: GTM을 통한 [GA4 적용](https://trusted-gaura-057.notion.site/Front-GTM-GA4-5f2260b8c31d4912b0bab5860ddbb690?pvs=4) 및 사용자 행동 분석 기반 마련
-  - **관련 링크**: [관련 기사](https://www.konkuk.ac.kr/sites/konkuk/news/165/page9.html) | [GitHub](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU) | [프로젝트 Notion](https://www.notion.so/2024-KUSD-cc1ad58329b24f999380defd5fff959a?source=copy_link)
+  - **관련 링크**: [관련 기사](https://www.konkuk.ac.kr/sites/konkuk/news/165/page9.html) | [GitHub](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU) | [Notion](https://www.notion.so/2024-KUSD-cc1ad58329b24f999380defd5fff959a?source=copy_link)
 
   </div>
 </details>
