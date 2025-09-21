@@ -62,3 +62,4 @@
 
 -   (Issue) **NaverPayDev/pie**: [[vanilla-store] useSetStore 훅이 불필요한 리렌더링을 유발](https://github.com/NaverPayDev/pie/issues/178)
 -   (Issue) **ky**: [ky hangs indefinitely with mode: 'no-cors' and a request body in Next.js](https://github.com/sindresorhus/ky/issues/740)
+-   (PR) **ky**: [Fix hang on stream request cleanup in Node.js ](https://github.com/sindresorhus/ky/pull/741)
