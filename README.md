@@ -6,15 +6,6 @@
 <img height="25" width="25" src="https://cdn.simpleicons.org/javascript/F7DF1E" /> <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/3178C6" /> <img height="25" width="25" src="https://cdn.simpleicons.org/react/61DAFB" /> <img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/black/white" /> <img height="25" width="25" src="https://cdn.simpleicons.org/recoil/3578E5" /> <img height="25" width="25" src="https://cdn.simpleicons.org/redux/764ABC" /> <img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" /> <img height="25" width="25" src="https://cdn.simpleicons.org/styledcomponents/DB7093" />
 #### Projects & Activities
 
-<details>
-  <summary><strong>Google Developer Groups on Campus Konkuk Core Member</strong> (2025.07 ~ )</summary>
-  <div markdown="1">
-
-  - 신규 멤버 모집을 위한 [랜딩 페이지](https://gdgoc-konkuk.com/) 제작
-  - 교내 개발자 커뮤니티 활성화를 위한 테크 세미나 주최 및 운영
-
-  </div>
-</details>
 
 <details>
   <summary><strong>KioSchool FrontEnd Lead</strong> (2024.02 ~ )</summary>
@@ -46,6 +37,19 @@
   </div>
 </details>
 
+<details>
+  <summary><strong>Google Developer Groups on Campus Konkuk Core Member</strong> (2025.07 ~ )</summary>
+  <div markdown="1">
+
+  - 신규 멤버 모집을 위한 [랜딩 페이지](https://gdgoc-konkuk.com/) 제작
+  - 교내 개발자 커뮤니티 활성화를 위한 테크 세미나 주최 및 운영
+
+  </div>
+</details>
+
+
+
+
 #### Experiences
 
 <details>
@@ -60,5 +64,6 @@
 
 #### Contributions
 
--   (Issue) **NaverPayDev/pie**: [[vanilla-store] useSetStore 훅이 불필요한 리렌더링을 유발](https://github.com/NaverPayDev/pie/issues/178)
 -   (PR) **ky**: [Fix hang on stream request cleanup in Node.js ](https://github.com/sindresorhus/ky/pull/741)
+-   (Issue) **NaverPayDev/pie**: [[vanilla-store] useSetStore 훅이 불필요한 리렌더링을 유발](https://github.com/NaverPayDev/pie/issues/178)
+
