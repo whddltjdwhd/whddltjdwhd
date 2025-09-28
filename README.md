@@ -16,7 +16,7 @@
   - **성능 개선**:
     - [웹 소켓을 이용한 실시간 주문 조회 기능 개선](https://ji-in.notion.site/264c5ba1fd77805abc70ecb9e88e3e33)
     - [전체 QR 코드 다운로드 파이프라인 개선으로 시간 단축](https://github.com/KioSchool/KioSchool/pull/278)
-    - [CRA에서 Vite로 마이그레이션 진행으로 빌드 속도 및 개발 환경 개선](https://www.castle-bell.site/vite-migration)
+    - [CRA에서 Vite로 마이그레이션 진행으로 빌드 속도 및 개발 환경 개선](https://www.castle-bell.site/posts/cra-vite)
   - **UX/UI**: recharts 활용 [데이터 시각화](https://github.com/KioSchool/KioSchool/pull/271), react-scroll 커스텀 [scroll-spy 기능 구현](https://ji-in.notion.site/1a9c5ba1fd7780abaa2bf2269c6d9ac3)
   - **관련 링크**: [서비스 바로가기](https://kio-school.com/) | [GitHub](https://github.com/KioSchool/KioSchool) | [Notion](https://ji-in.notion.site/34885d92962d403dbc8c149106657473) | [인스타그램](https://www.instagram.com/kioschool/#)
 
