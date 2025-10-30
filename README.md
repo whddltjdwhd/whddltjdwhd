@@ -43,6 +43,7 @@
 
   - 신규 멤버 모집을 위한 [랜딩 페이지](https://gdgoc-konkuk.com/) 제작
   - 교내 개발자 커뮤니티 활성화를 위한 테크 세미나 주최 및 운영
+  - 발표 영상: [그래서, 사이드 프로젝트 어떻게 지속하나요?](https://www.youtube.com/watch?v=MHMonvet0nM)
 
   </div>
 </details>
