@@ -66,5 +66,6 @@
 #### Contributions
 
 -   (PR) **ky**: [Fix hang on stream request cleanup in Node.js ](https://github.com/sindresorhus/ky/pull/741)
+-   (PR) **toss/frontend-fundamentals**: [docs: 디버깅 문서 /prevent/util.md 파일 오타 수정](https://github.com/toss/frontend-fundamentals/pull/581)
 -   (Issue) **NaverPayDev/pie**: [[vanilla-store] useSetStore 훅이 불필요한 리렌더링을 유발](https://github.com/NaverPayDev/pie/issues/178)
 
