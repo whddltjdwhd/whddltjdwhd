@@ -44,6 +44,7 @@
   - 신규 멤버 모집을 위한 [랜딩 페이지](https://gdgoc-konkuk.com/) 제작
   - 교내 개발자 커뮤니티 활성화를 위한 테크 세미나 주최 및 운영
   - 발표 영상: [그래서, 사이드 프로젝트 어떻게 지속하나요?](https://www.youtube.com/watch?v=MHMonvet0nM)
+  - 2025 GDG Campus Korea DevFest 핸즈온 세션 ["코딩 에이전트를 똑똑하게 사용하기 with MCP 서버"](https://github.com/gdgoc-konkuk/2025-dev-fest-mcp) 준비 및 진행
 
   </div>
 </details>
