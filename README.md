@@ -11,7 +11,7 @@
   <summary><strong>KioSchool FrontEnd Lead</strong> (2024.02 ~ )</summary>
   <div markdown="1">
 
-  - **서비스 성과**: QR 기반 테이블 오더링 서비스 개발, **누적 사용자 7,000명 이상** 확보 및 축제 주점 **대기 시간 30% 단축** / **매출 20% 증대**
+  - **서비스 성과**: QR 기반 테이블 오더링 서비스 개발, **누적 사용자 7,500명 이상** 확보 및 축제 주점 **대기 시간 30% 단축** / **매출 20% 증대**
   - **서비스 기여**: 어드민/사용자 페이지 (23개 이상) 전체 기능 구현
   - **성능 개선**:
     - [웹 소켓을 이용한 실시간 주문 조회 기능 개선](https://ji-in.notion.site/264c5ba1fd77805abc70ecb9e88e3e33)
@@ -20,6 +20,29 @@
   - **UX/UI**: recharts 활용 [데이터 시각화](https://github.com/KioSchool/KioSchool/pull/271), react-scroll 커스텀 [scroll-spy 기능 구현](https://ji-in.notion.site/1a9c5ba1fd7780abaa2bf2269c6d9ac3)
   - **관련 링크**: [서비스 바로가기](https://kio-school.com/) | [GitHub](https://github.com/KioSchool/KioSchool) | [Notion](https://ji-in.notion.site/34885d92962d403dbc8c149106657473) | [인스타그램](https://www.instagram.com/kioschool/#) | [대학내일 인터뷰](https://www.univ20.com/Magazine/Detail/3685)
 
+  </div>
+</details>
+
+
+<details>
+  <summary><strong>Google Developer Groups on Campus Konkuk Core Member</strong> (2025.07 ~ )</summary>
+  <div markdown="1">
+
+  - 신규 멤버 모집을 위한 [랜딩 페이지](https://gdgoc-konkuk.com/) 제작
+  - 교내 개발자 커뮤니티 활성화를 위한 테크 세미나 주최 및 운영
+  - 발표 영상: [그래서, 사이드 프로젝트 어떻게 지속하나요?](https://www.youtube.com/watch?v=MHMonvet0nM)
+  - 2025 GDG Campus Korea DevFest 핸즈온 세션 ["코딩 에이전트를 똑똑하게 사용하기 with MCP 서버"](https://github.com/gdgoc-konkuk/2025-dev-fest-mcp) 준비 및 진행
+
+  </div>
+</details>
+
+
+<details>
+  <summary><strong>Nexters 28기 FrontEnd Member</strong> (2026.01 ~ 2026.02)</summary>
+  <div markdown="1">
+    
+  - 지원후기: [눈 떠보니 내가 넥스터즈 회원...?](https://www.castle-bell.site/posts/apply-nexters-28)
+    
   </div>
 </details>
 
@@ -37,22 +60,18 @@
   </div>
 </details>
 
-<details>
-  <summary><strong>Google Developer Groups on Campus Konkuk Core Member</strong> (2025.07 ~ )</summary>
-  <div markdown="1">
-
-  - 신규 멤버 모집을 위한 [랜딩 페이지](https://gdgoc-konkuk.com/) 제작
-  - 교내 개발자 커뮤니티 활성화를 위한 테크 세미나 주최 및 운영
-  - 발표 영상: [그래서, 사이드 프로젝트 어떻게 지속하나요?](https://www.youtube.com/watch?v=MHMonvet0nM)
-  - 2025 GDG Campus Korea DevFest 핸즈온 세션 ["코딩 에이전트를 똑똑하게 사용하기 with MCP 서버"](https://github.com/gdgoc-konkuk/2025-dev-fest-mcp) 준비 및 진행
-
-  </div>
-</details>
-
 
 
 
 #### Experiences
+
+<details>
+  <summary><strong>팀스파르타 Growth 스쿼드 Fullstack Engineer 인턴</strong> (2025.12 ~ 2026.02)</summary>
+  <div markdown="1">
+
+  </div>
+</details>
+
 
 <details>
   <summary><strong>NAVER FINANCIAL 주문&결제 FE팀 Internship</strong> (2025.07 ~ 2025.08)</summary>
