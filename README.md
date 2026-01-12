@@ -4,8 +4,8 @@
 
 #### Skills
 <img height="25" width="25" src="https://cdn.simpleicons.org/javascript/F7DF1E" /> <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/3178C6" /> <img height="25" width="25" src="https://cdn.simpleicons.org/react/61DAFB" /> <img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/black/white" /> <img height="25" width="25" src="https://cdn.simpleicons.org/recoil/3578E5" /> <img height="25" width="25" src="https://cdn.simpleicons.org/redux/764ABC" /> <img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" /> <img height="25" width="25" src="https://cdn.simpleicons.org/styledcomponents/DB7093" />
-#### Projects & Activities
 
+#### Projects & Activities
 
 <details>
   <summary><strong>KioSchool FrontEnd Lead</strong> (2024.02 ~ )</summary>
@@ -46,44 +46,13 @@
   </div>
 </details>
 
-<details>
-  <summary><strong>건국대학교 학생개발팀 KUSD 3기 FrontEnd Lead</strong> (2024.06 ~ 2025.01)</summary>
-  <div markdown="1">
-
-  - **서비스 개발**: 건국대학교 학생 대상 로드맵 서비스 '쿠맵' 프로토타입 개발
-  - **기능 리팩토링**: 복합 조건(직군, 학과, 키워드) [검색 기능 개발 및 성능 개선](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU/pull/206)
-  - **코드 베이스 개선**: [절대 경로 적용](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU/pull/201), [폴더 구조 리팩토링](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU/pull/198)으로 유지보수성 향상
-  - **최적화**: [OG Tag 적용 (SEO)](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU/pull/179), 백엔드 협업을 통한 [번들 사이즈 축소](https://www.notion.so/Front-yarn-start-6149f249a03541a7a5e262208a2d9e8c)
-  - **데이터 분석**: GTM을 통한 [GA4 적용](https://trusted-gaura-057.notion.site/Front-GTM-GA4-5f2260b8c31d4912b0bab5860ddbb690?pvs=4) 및 사용자 행동 분석 기반 마련
-  - **관련 링크**: [관련 기사](https://www.konkuk.ac.kr/sites/konkuk/news/165/page9.html) | [GitHub](https://github.com/Konkuk-Univ-Student-Developer/RoadMapKU) | [Notion](https://www.notion.so/2024-KUSD-cc1ad58329b24f999380defd5fff959a?source=copy_link)
-
-  </div>
-</details>
-
-
-
-
 #### Experiences
 
-<details>
-  <summary><strong>팀스파르타 Growth 스쿼드 Fullstack Engineer 인턴</strong> (2025.12 ~ 2026.02)</summary>
-  <div markdown="1">
+##### 팀스파르타 그로스 스쿼드 Fullstack Engineer 인턴 (2025.12 ~ 2026.02)
 
-  </div>
-</details>
+##### NAVER FINANCIAL 주문&결제 FE팀 인턴 (2025.07 ~ 2025.08)
 
-
-<details>
-  <summary><strong>NAVER FINANCIAL 주문&결제 FE팀 Internship</strong> (2025.07 ~ 2025.08)</summary>
-  <div markdown="1">
-
-  - 정기구독 신청 주문서 클론 코딩 과제 수행
-  - **관련 링크**: [과제 상세 내용 (Notion)](https://gilded-class-68b.notion.site/order) | [최종 발표 자료 (Figma Slide)](https://www.figma.com/slides/iYo6abrAY7hC2erHCdc2HY/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EC%B5%9C%EC%A2%85-%EB%B0%9C%ED%91%9C?node-id=1-1087&t=DR6J54MGKUG9VPAJ-1)
-
-  </div>
-</details>
-
-#### Contributions
+### Contributions
 
 -   (PR) **ky**: [Fix hang on stream request cleanup in Node.js ](https://github.com/sindresorhus/ky/pull/741)
 -   (PR) **toss/frontend-fundamentals**: [docs: 디버깅 문서 /prevent/util.md 파일 오타 수정](https://github.com/toss/frontend-fundamentals/pull/581)
