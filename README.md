@@ -2,9 +2,6 @@
 
 > **사용자 문제 해결을 최우선으로, 기술적인 깊이를 통해 실질적인 서비스 성과를 만들어내는 프론트엔드 개발자입니다.**
 
-#### Skills
-<img height="25" width="25" src="https://cdn.simpleicons.org/javascript/F7DF1E" /> <img height="25" width="25" src="https://cdn.simpleicons.org/typescript/3178C6" /> <img height="25" width="25" src="https://cdn.simpleicons.org/react/61DAFB" /> <img height="25" width="25" src="https://cdn.simpleicons.org/nextdotjs/black/white" /> <img height="25" width="25" src="https://cdn.simpleicons.org/recoil/3578E5" /> <img height="25" width="25" src="https://cdn.simpleicons.org/redux/764ABC" /> <img height="25" width="25" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" /> <img height="25" width="25" src="https://cdn.simpleicons.org/styledcomponents/DB7093" />
-
 #### Projects & Activities
 
 <details>
