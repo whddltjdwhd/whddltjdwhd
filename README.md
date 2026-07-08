@@ -45,7 +45,7 @@
 
 #### Experiences
 
-##### 팀스파르타 그로스스쿼드 Software Engineer (2025.12 ~ )
+##### 팀스파르타 그로스스쿼드 Product Engineer (2025.12 ~ )
 
 ##### NAVER FINANCIAL 주문&결제 FE팀 인턴 (2025.07 ~ 2025.08)
 
