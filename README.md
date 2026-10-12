@@ -1,11 +1,11 @@
 #### Hi, I am Castle Bell 🔔
 
-> **사용자 문제 해결을 최우선으로, 기술적인 깊이를 통해 실질적인 서비스 성과를 만들어내는 프론트엔드 개발자입니다.**
+> **사용자 문제에서 출발해, 탄탄한 기술력으로 서비스의 성장을 이끄는 엔지니어입니다.**
 
 #### Projects & Activities
 
 <details>
-  <summary><strong>KioSchool FrontEnd Lead</strong> (2024.02 ~ )</summary>
+  <summary><strong>KioSchool Frontend Lead</strong> (2024.02 ~ )</summary>
   <div markdown="1">
 
   - **서비스 성과**
@@ -54,7 +54,7 @@
 
 - 팀스파르타 구매전환파트 Product Engineer (2025.12 ~ )
 
-- NAVER FINANCIAL 주문&결제 FE팀 인턴 (2025.07 ~ 2025.08)
+- 네이버파이낸셜 주문&결제 FE팀 인턴 (2025.07 ~ 2025.08)
 
 #### Contributions
 
